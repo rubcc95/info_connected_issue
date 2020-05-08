@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "655680555363",
+    "firebase_url": "https://rules-test-42b3c.firebaseio.com",
+    "project_id": "rules-test-42b3c",
+    "storage_bucket": "rules-test-42b3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655680555363:android:86b42df45ddf9984f7ab56",
+        "android_client_info": {
+          "package_name": "com.winpyme.rulestest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655680555363-bilu0j4dgbno9q9pbf3ccpjtjosfgn4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPmcvSCmQz7S9ctb_uyNH0He_vTQCXVgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655680555363-bilu0j4dgbno9q9pbf3ccpjtjosfgn4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
